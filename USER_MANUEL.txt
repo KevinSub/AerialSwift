@@ -1,0 +1,18 @@
+Aerial Swift 
+
+Open 'StartGame.java' to start the game!
+
+-Simply click Play from the 4 options to play and select your character by clicking on him
+-Use your up and down arrow keys to move the character up or down
+-If you want to restart after you die, simply click restart
+-If you want to go back to the main menu simply click quit
+-If you would like to see the credits, just click credits from the 4 options on the main menu
+-This will display the makers of this program
+-If you would like to see the leaderboards and high scores, just click leaderboards on the main menu
+-From here you have a variety of options to sort how you want the leaderboards to be displayed such as high to low score, etc
+-You can also search for a specific name or character. If you no longer want to 
+play any more, simply click the 'x' in the top  right corner. 
+
+Thanks for playing!
+
+- Deep Patel & Kevin Subhash

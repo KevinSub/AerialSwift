@@ -1,0 +1,22 @@
+Mario
+12.0
+Campos
+374.0
+Spyro
+57.0
+Bird
+81.0
+Sonic
+108.0
+Pikachu
+29.0
+Ezio
+-1.0
+Dallas
+-1.0
+Nathan Drake
+-1.0
+Master Cheif
+-1.0
+LeBron James
+-1.0
